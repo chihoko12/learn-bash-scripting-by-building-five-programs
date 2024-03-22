@@ -303,3 +303,4 @@ help test
 help [[
 [[ "hello" == "hello" ]]
 [[ "hello" == "world" ]]
+[[ "hello" =~ "el" ]]
