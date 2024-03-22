@@ -164,3 +164,4 @@ help
 ls --color=auto -ld countdown.sh
 help test
 [[ -x countdown.sh ]]
+help [[
