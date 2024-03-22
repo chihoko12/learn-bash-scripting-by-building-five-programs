@@ -248,3 +248,6 @@ echo RANDOM % 75
 echo $(( RANDOM % 75 ))
 echo $(( RANDOM % 75 + 1 ))
 __vsc_prompt_cmd_original
+clear
+./bingo.sh
+./bingo.sh
