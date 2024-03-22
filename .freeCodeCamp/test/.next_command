@@ -212,3 +212,5 @@ echo $I
 (( I-- ))
 (( I++ ))
 echo $I
+I=1
+help let
