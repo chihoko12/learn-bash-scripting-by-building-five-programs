@@ -293,3 +293,5 @@ __vsc_prompt_cmd_original
 ./fortune.sh
 help
 help function
+clear
+./fortune.sh
