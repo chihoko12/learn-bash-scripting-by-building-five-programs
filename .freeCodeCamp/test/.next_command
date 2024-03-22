@@ -296,3 +296,4 @@ help function
 clear
 ./fortune.sh
 ./fortune.sh
+help
