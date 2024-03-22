@@ -133,3 +133,4 @@ sh --help
 sh -help
 help
 man if
+help if
