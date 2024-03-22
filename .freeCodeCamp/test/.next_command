@@ -214,3 +214,6 @@ echo $I
 echo $I
 I=1
 help let
+(( I=+10 ))
+(( I =+ 10 ))
+(( I += 10 ))
