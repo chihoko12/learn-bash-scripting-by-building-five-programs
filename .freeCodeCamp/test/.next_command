@@ -265,3 +265,6 @@ help if
 ./bingo.sh
 clear
 help test
+clear
+./bingo.sh
+./bingo.sh
