@@ -98,3 +98,7 @@ questionnaire.sh
 ./questionnaire.sh
 __vsc_prompt_cmd_original
 touch countdown.sh
+chmod +x
+chmod --help
+chmod countdown.sh +x
+chmod +x countdown.sh
