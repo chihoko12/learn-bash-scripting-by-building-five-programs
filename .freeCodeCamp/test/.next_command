@@ -197,3 +197,4 @@ chomd +x bingo.sh
 chmod +x bingo.sh
 cat bingo.sh
 ./bingo.sh
+printenv
