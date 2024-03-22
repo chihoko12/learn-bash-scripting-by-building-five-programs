@@ -205,3 +205,4 @@ echo $RANDOM
 clear
 ./bingo.sh
 ./bingo.sh
+./bingo.sh
